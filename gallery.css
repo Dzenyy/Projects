@@ -1,0 +1,31 @@
+html,body{
+	width: 100%;
+}
+.header {
+	height: 60px;
+	background-color: grey;
+	border: 1px solid black;
+}
+.text {
+	color: white;
+	text-align: center;
+	margin-top: 5px;
+	font-size: 25px;
+}
+.mainOne {
+	background-color: #DEB887;
+	height: 240px;
+}
+.mainTwo {
+	background-color: #DEB887;
+	height: 240px;
+}
+.mainThree {
+	background-color: #DEB887;
+	height: 240px;
+}
+.image{
+	height: 100%;
+	width: 100%;
+	margin-top: 20px;
+}
